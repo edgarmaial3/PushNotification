@@ -4,8 +4,8 @@
   "cordova_name": "Telerik Push Notifications",
   "description": "This plugin allows your application to receive push notifications. Tailored for (but not limited to) Telerik Platform Backend Services.",
   "license": "MIT",
-  "repo": "https://github.com/Telerik-Verified-Plugins/PushNotification.git",
-  "issue": "https://github.com/Telerik-Verified-Plugins/PushNotification/issues",
+  "repo": "https://github.com/edgarmaial3/PushNotification.git",
+  "issue": "https://github.com/edgarmaial3/PushNotification/issues",
   "keywords": [
     "Push",
     "Notification",
